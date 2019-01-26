@@ -15,4 +15,7 @@
 学习要求:尽可能的跑一下实例,并且在此记一下笔记.
 
 
-[学习简记](doc/csLearningNote.md)
+[学习简记](doc/csLearningNote.md)  
+```
+这里是我第一次知道github可以使用相对链接,开心
+```
