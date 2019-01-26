@@ -15,4 +15,4 @@
 学习要求:尽可能的跑一下实例,并且在此记一下笔记.
 
 
-[学习简记](https://github.com/zzqluvmyj/csProgram/blob/master/doc/csLearningNote)
+[学习简记](doc/csLearningNote)
