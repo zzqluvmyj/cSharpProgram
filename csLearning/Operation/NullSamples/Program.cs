@@ -26,8 +26,7 @@ namespace NullSamples
             //null合并操作符,当y为空,赋值为后面的值,不为空,则为y值
             int z = y ?? 20;
             Console.WriteLine(z);
-            
-
+           
         }
     }
 }
